@@ -800,9 +800,7 @@ LineRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Positions:
-  - {x: 13.246311, y: 2.4565759, z: -2.5730464}
-  - {x: 12.068, y: 0.57, z: -1.81}
+  m_Positions: []
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
@@ -867,13 +865,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5473117555072096490}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 55e67b0fe0ef30e40b3ff1c1466a90b9, type: 3}
+  m_Script: {fileID: 11500000, guid: 79bf59b61ddc4d540a9f585b93d3ace6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 1213877155947506348}
-  transforms:
-  - {fileID: 8656982010706246001}
-  - {fileID: 0}
+  transforms: []
 --- !u!1 &5568899959649238970
 GameObject:
   m_ObjectHideFlags: 0
